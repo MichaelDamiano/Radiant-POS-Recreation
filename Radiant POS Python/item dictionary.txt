@@ -1,0 +1,8 @@
+coke 1.99
+cigarettes 9.90
+gum .59
+fuel(87) 3.06
+fuel(89) 3.41
+fuel(91) 3.56
+fuel(93) 3.58
+fuel(diesel) 3.21
